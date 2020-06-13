@@ -64,12 +64,12 @@ ${demo.css}
 		var marker = new google.maps.Marker({
           position: new google.maps.LatLng(-36.8861, 174.7975),
           map: map,
-          title: 'The Commerce Club Auckland'
+         
         });
       }
     </script>
     <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBRdmwYnpms0w3UtjmiDYUF3hi7eClsjvg&callback=initialize">
+     
     </script>
     
     
